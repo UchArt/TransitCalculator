@@ -46,7 +46,6 @@ public class citizen {
                 }
             } else {
                 System.out.println("Wrong answer!");
-
                 System.out.println("Please answer again.");
                 System.out.print("Do you have a citizen card? (ride yes or no): ");
                 String question = sc.next().toLowerCase();
